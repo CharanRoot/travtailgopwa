@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8f563cdda28e892619488d8fa67efc3",
+    "revision": "f631b8ccb9fdd3c1d17f9279101b5cca",
     "url": "/travtailgopwa/index.html"
   },
   {
-    "revision": "b209fa20154b3a9fb3eb",
+    "revision": "321a488faee599b37115",
     "url": "/travtailgopwa/static/css/main.55520aaa.chunk.css"
   },
   {
-    "revision": "3e8504ae7200f0f23a1d",
-    "url": "/travtailgopwa/static/js/2.b649340d.chunk.js"
+    "revision": "b85a2c39f0898e1e5642",
+    "url": "/travtailgopwa/static/js/2.6b1e7b7d.chunk.js"
   },
   {
     "revision": "486fd1348cd78357e1153b1205385055",
-    "url": "/travtailgopwa/static/js/2.b649340d.chunk.js.LICENSE.txt"
+    "url": "/travtailgopwa/static/js/2.6b1e7b7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b209fa20154b3a9fb3eb",
-    "url": "/travtailgopwa/static/js/main.72daa303.chunk.js"
+    "revision": "321a488faee599b37115",
+    "url": "/travtailgopwa/static/js/main.f01b4d69.chunk.js"
   },
   {
     "revision": "3c51cc668c6337425b54",
