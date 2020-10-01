@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travtailgopwa/static/css/main.55520aaa.chunk.css",
+    "main.js": "/travtailgopwa/static/js/main.72daa303.chunk.js",
+    "main.js.map": "/travtailgopwa/static/js/main.72daa303.chunk.js.map",
+    "runtime-main.js": "/travtailgopwa/static/js/runtime-main.48bb5b1b.js",
+    "runtime-main.js.map": "/travtailgopwa/static/js/runtime-main.48bb5b1b.js.map",
+    "static/js/2.b649340d.chunk.js": "/travtailgopwa/static/js/2.b649340d.chunk.js",
+    "static/js/2.b649340d.chunk.js.map": "/travtailgopwa/static/js/2.b649340d.chunk.js.map",
+    "index.html": "/travtailgopwa/index.html",
+    "precache-manifest.4c3a6c078a2cf61e6c37cfd8918ac7ff.js": "/travtailgopwa/precache-manifest.4c3a6c078a2cf61e6c37cfd8918ac7ff.js",
+    "service-worker.js": "/travtailgopwa/service-worker.js",
+    "static/css/main.55520aaa.chunk.css.map": "/travtailgopwa/static/css/main.55520aaa.chunk.css.map",
+    "static/js/2.b649340d.chunk.js.LICENSE.txt": "/travtailgopwa/static/js/2.b649340d.chunk.js.LICENSE.txt",
+    "static/media/Travtail.png": "/travtailgopwa/static/media/Travtail.d50df39a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48bb5b1b.js",
+    "static/js/2.b649340d.chunk.js",
+    "static/css/main.55520aaa.chunk.css",
+    "static/js/main.72daa303.chunk.js"
+  ]
+}
