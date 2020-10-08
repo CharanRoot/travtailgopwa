@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/travtailgopwa/static/css/main.55520aaa.chunk.css",
-    "main.js": "/travtailgopwa/static/js/main.7e712b05.chunk.js",
-    "main.js.map": "/travtailgopwa/static/js/main.7e712b05.chunk.js.map",
+    "main.js": "/travtailgopwa/static/js/main.20c151ad.chunk.js",
+    "main.js.map": "/travtailgopwa/static/js/main.20c151ad.chunk.js.map",
     "runtime-main.js": "/travtailgopwa/static/js/runtime-main.48bb5b1b.js",
     "runtime-main.js.map": "/travtailgopwa/static/js/runtime-main.48bb5b1b.js.map",
-    "static/js/2.1b6168ae.chunk.js": "/travtailgopwa/static/js/2.1b6168ae.chunk.js",
-    "static/js/2.1b6168ae.chunk.js.map": "/travtailgopwa/static/js/2.1b6168ae.chunk.js.map",
+    "static/js/2.18551db4.chunk.js": "/travtailgopwa/static/js/2.18551db4.chunk.js",
+    "static/js/2.18551db4.chunk.js.map": "/travtailgopwa/static/js/2.18551db4.chunk.js.map",
     "index.html": "/travtailgopwa/index.html",
-    "precache-manifest.58d92e4f9f9205a2c97f4dc59dcb4e28.js": "/travtailgopwa/precache-manifest.58d92e4f9f9205a2c97f4dc59dcb4e28.js",
+    "precache-manifest.8c6fc81c00dfe0a851c041edea1b4a15.js": "/travtailgopwa/precache-manifest.8c6fc81c00dfe0a851c041edea1b4a15.js",
     "service-worker.js": "/travtailgopwa/service-worker.js",
     "static/css/main.55520aaa.chunk.css.map": "/travtailgopwa/static/css/main.55520aaa.chunk.css.map",
-    "static/js/2.1b6168ae.chunk.js.LICENSE.txt": "/travtailgopwa/static/js/2.1b6168ae.chunk.js.LICENSE.txt",
+    "static/js/2.18551db4.chunk.js.LICENSE.txt": "/travtailgopwa/static/js/2.18551db4.chunk.js.LICENSE.txt",
     "static/media/Travtail.png": "/travtailgopwa/static/media/Travtail.d50df39a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.48bb5b1b.js",
-    "static/js/2.1b6168ae.chunk.js",
+    "static/js/2.18551db4.chunk.js",
     "static/css/main.55520aaa.chunk.css",
-    "static/js/main.7e712b05.chunk.js"
+    "static/js/main.20c151ad.chunk.js"
   ]
 }
